@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-          <img src="/pokeball.svg" alt="Pokéball" />
+          <img src="pokeball.svg" alt="Pokéball" />
           Pokédex
         </Link>
         
